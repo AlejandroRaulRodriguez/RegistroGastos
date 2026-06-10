@@ -1,0 +1,51 @@
+{
+  "gastos": [
+    {
+      "id": "1",
+      "descripcion": "Supermercado semanal",
+      "categoria": "Comida",
+      "monto": 18450,
+      "fecha": "2026-06-03",
+      "notas": "Compra mensual de frutas y verduras"
+    },
+    {
+      "descripcion": "Subte y colectivo",
+      "categoria": "Transporte",
+      "monto": 5200,
+      "fecha": "2026-06-04",
+      "notas": "Viajes a la facultad",
+      "id": "2"
+    },
+    {
+      "descripcion": "Medicamentos",
+      "categoria": "Salud",
+      "monto": 50000,
+      "fecha": "2026-02-05",
+      "notas": "",
+      "id": "beTLitNn0-8"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Comida"
+    },
+    {
+      "id": "2",
+      "nombre": "Transporte"
+    },
+    {
+      "id": "3",
+      "nombre": "Ocio"
+    },
+    {
+      "id": "4",
+      "nombre": "Salud"
+    },
+    {
+      "id": "5",
+      "nombre": "Otro"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
